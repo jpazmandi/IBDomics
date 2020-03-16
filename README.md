@@ -3,7 +3,7 @@
 
 How to use the code:
 
-
+In python 3 or higher
 IBDomics: ranking genes of interest on network with incremental random walk with restart and disease module cohesion
 1) run incremental_rwr.ipynb  ro run multiple random walks on a chosen network. 
 2) run merging_tables.ipynb to combine incremental rwr to a single rwr matrix
